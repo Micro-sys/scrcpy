@@ -9,6 +9,8 @@
 ```
 
 #USED-
+sudo su
+
 * chmod 755 scrcpy.sh
 * bash scrcpy.sh
 * scrcpy
